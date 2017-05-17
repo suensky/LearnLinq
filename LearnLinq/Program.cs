@@ -10,6 +10,9 @@ namespace LearnLinq
     {
         static void Main(string[] args)
         {
+            LinqToXml.Test();
+
+            Utilities.Test();
         }
     }
 }
